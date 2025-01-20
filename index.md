@@ -11,3 +11,14 @@ In this new republic, the people govern directly or via delegates at their discr
 Laws are authoritatively tracked via git.
 All proposed changes to law are guaranteed a review period by the people and their delegates.
 The changes become law when the review period has passed and a sufficient number of votes are FOR the change, as described by law.
+
+The Articles are national-level laws.
+
+Sub-jurisdictions apply additional laws.
+
+## Areas for expansion
+
+- Review "scope" in the Articles
+- Indecent exposure
+- Encourage productive, responsible members of society.
+- Deal with homelessness.

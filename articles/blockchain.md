@@ -5,9 +5,11 @@ These include:
 
 1. Citizenship awards, revocations, and renewals.
 1. Delegation of voting powers.
-1. Votes
+1. Votes.
 1. Pushes to the authoritative branch of the legislative git repo.
    As git itself is something of a blockchain, only the commit ID need be pushed to the blockchain rather than the git database itself.
+1. Legally registered entities that may own real estate (e.g. a business) and pay taxes.
+1. Proof of tax payments.
 
 ## Privacy
 

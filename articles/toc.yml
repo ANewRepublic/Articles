@@ -7,9 +7,14 @@ items:
 - href: privacy.md
 - href: blockchain.md
 - href: taxation.md
-- href: consumer_protections.md
+- name: Protections
+  items:
+  - href: protections/consumer.md
+  - href: protections/child.md
 - href: national_security.md
 - href: public_services.md
 - href: production.md
 - href: policy_discussion.md
 - href: freedoms.md
+- href: net_neutrality.md
+- href: incarceration.md

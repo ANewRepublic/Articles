@@ -21,7 +21,7 @@
 			"_appName": "A New Republic",
 			"_appTitle": "A New Republic",
 			"_enableSearch": true,
-			"pdf": true
+			"pdf": false
 		}
 	}
 }

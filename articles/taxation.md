@@ -8,6 +8,11 @@
 * WHEREAS the costs of this are proportional to the size of the real estate under protection and the value thereof.
 * THEREFORE real estate may be taxed, based on its size and perceived value.
 
+Real estate ownership is recorded on the [blockchain](blockchain.md) and associated with citizenship or an alternate legally registered entity such as a business.
+
+Failure to pay real estate taxes eventually results in sale at auction of the real estate to a citizen or other legal entity.
+The starting bid is the amount in back taxes.
+
 ## Forbidden taxation
 
 * Trade. This includes but is not limited to retail purchases, bartering, gambling, or human labor and services.
