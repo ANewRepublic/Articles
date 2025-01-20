@@ -46,6 +46,10 @@ With alternative proof of identity, the certificate on file may be revoked.
 
 A citizen may renounce their citizenship at a government service office that is equipped to authenticate the citizen via a biological proof and presentation of their certificate.
 
+## Revoking citizenship
+
+Citizenship may be revoked from those who emphatically and publicly renounce the nation, such that it is clear they have violated their oath.
+
 ## Minors
 
 Minors are "guest citizens" if at least one of their guardians are citizens.

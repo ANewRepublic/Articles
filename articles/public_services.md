@@ -3,6 +3,7 @@
 ## Resources
 
 Resources are consumable public goods and services.
+"Consumable" means that distribution to one leaves less for another.
 
 Resources should be paid for by those who consume them.
 Pricing may change according to supply and demand to distribute according to need.
