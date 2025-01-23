@@ -20,4 +20,4 @@ This certificate is used to vote or can delegate their voting power to a represe
 Voting and delegation is recorded on the governance blockchain.
 
 How can we prevent the creation of any voting proof that can be validated by anyone other than the expressly intended party?
-We'd like to avoid the ability to do this so that people why "buy votes" (illegally) cannot ask a voter to prove that they in fact voted a particular way.
+We'd like to avoid the ability to do this so that people who "buy votes" (illegally) cannot ask a voter to prove that they in fact voted a particular way.
