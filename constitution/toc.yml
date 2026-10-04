@@ -1,0 +1,29 @@
+items:
+- name: Introduction
+  href: introduction.md
+- name: Definitions
+  href: definitions.md
+- name: Scope
+  href: scope.md
+- name: Rights
+  href: rights.md
+- name: Sub-jurisdictions
+  href: federalism.md
+- name: Citizenship
+  href: citizenship.md
+- name: Representation
+  href: representation.md
+- name: Legislature
+  href: legislature.md
+- name: Executive
+  href: executive.md
+- name: Judiciary
+  href: judiciary.md
+- name: Crime and punishment
+  href: criminal.md
+- name: Defense and treaties
+  href: defense.md
+- name: Privacy
+  href: privacy.md
+- name: Money and debt
+  href: money.md

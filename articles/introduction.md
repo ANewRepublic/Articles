@@ -1,30 +1,10 @@
-# Introduction
+# Where the text went
 
-These articles are the laws of the land.
+The articles that used to live in this folder have been reorganized. This page keeps the old address from pointing at nothing.
 
-## Limited government
+- [Constitution](../constitution/introduction.md) — scope, rights, citizenship, voting, the legislative process, the council, courts, crime, defense, privacy, and money.
+- [Statutes](../statutes/introduction.md) — the land tax, national crimes, jails, national services, waste, and the cryptographic specification.
+- [Sub-jurisdictions](../sub-jurisdiction/introduction.md) — local charters that may do more than the nation, and the guarantees they still cannot break.
+- [Commentary](../commentary/open_questions.md) — open questions, a walkthrough of enactment, and notes that are not law.
 
-The laws at the national level are very limited in scope.
-
-The scope includes:
-
-- Protection of domestic life and physical property within the national borders from hazards foreign and domestic.
-- Treaties with other nations scoped only to peace, trade, and alleyship.
-
-The scope excludes everything not expressly included above.
-Implicitly excluded scope cannot be exhaustively enumerated.
-Enumerating a subset might be misleadingly reassuring to allow scope creep if something is not on that list.
-That is not intended in the following *excluded* scope, but we list an exclusion list anyway to call out areas where other governments have encroached that we explicitly call out as forbidden:
-
-- Education
-- Providing goods (care of the poor is left to the people)
-
-Changes to the scope requires a super-majority of votes.
-
-## Periodic application of changes to law
-
-All changes to law are enacted on a regular interval on the 15th of every month.
-
-### Technical Mechanics
-
-Changes to law are merged into a staging branch which is automatically merged into the enforced branch on the designated day.
+The old stubs on employment, net neutrality, consumer codes, and a national education ban as a single unresolved note are answered in those pages, not left blank here.

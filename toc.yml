@@ -1,7 +1,13 @@
 items:
-- name: Articles
+- name: Constitution
+  href: constitution/
+- name: Statutes
+  href: statutes/
+- name: Sub-jurisdictions
+  href: sub-jurisdiction/
+- name: Commentary
+  href: commentary/
+- name: Earlier links
   href: articles/
-- name: Sub-jurisdiction
-  href: subjuristiction/
 - name: GitHub
   href: https://github.com/ANewRepublic/Articles

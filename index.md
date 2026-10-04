@@ -4,43 +4,19 @@ _layout: landing
 
 # The Articles
 
-Welcome to the governing articles of a mythical nation called "A New Republic".
+These are the governing articles of A New Republic, written as law so the design can be argued in detail. The nation described here does not yet exist. A merge on this draft repository is an edit, not an enactment.
 
-In this new republic, the people govern directly or via delegates at their discretion.
+The people govern directly, or through delegates they can replace at any time. The nation itself is small: it protects life and property, and it keeps the machinery that makes those limits real. People who want to subsidize a thing, serve a group, or tax something the nation may not tax can form a sub-jurisdiction and do it there, without capturing a national office first. They cannot close the exits or take the national rights away.
 
-Laws are authoritatively tracked via git.
-All proposed changes to law are guaranteed a review period by the people and their delegates.
-See [policy discussions](articles/policy_discussion.md) for how people can participate in debates and discussions around proposed or enacted law.
-The changes become law when the review period has passed and a sufficient number of votes are FOR the change, as described by law.
+Law is a git repository. A proposal is a pull request with a frozen diff. Citizens vote, in private and in a way a buyer cannot verify, after a public review. Explanations, including explanations written by machines, help people read the diff. They do not become the law and they cannot veto it.
 
-The Articles are national-level laws.
+## The text
 
-Sub-jurisdictions apply additional laws.
+- [Constitution](constitution/introduction.md)
+- [Statutes](statutes/introduction.md)
+- [Sub-jurisdictions](sub-jurisdiction/introduction.md)
+- [Commentary](commentary/open_questions.md), which is not law
 
-## Areas for expansion
+## What is specified and not built
 
-- Review "scope" in the Articles
-- Indecent exposure
-- Encourage productive, responsible members of society.
-- Deal with homelessness.
-- Legislative
-  - What can we do to encourage stale laws to be removed? (expiration dates for all laws? community PRs?)
-  - Congressional budget office equivalent?
-  - The budget must be balanced at all times.
-  - Capital expenses will be paid up front -- not with bonds for future generations to pay. Debt is bondage.
-  - When will bills be voted on? How about quarterly, after a 3 month long review period?
-  - One page bills that focus on just one issue.
-- Judicial
-- Executive
-  - can they pick and choose which laws to enforce?
-  - limits on executive orders
-- Foreign policy
-- Penalties for various crimes (e.g. murder, abortion, vandalism)
-- Federal vs. sub-jurisdictional law enforcement responsibilities
-- No religious test for public office (does NOT mandate removal of religious emblems from all public property).
-- Laws must be forward-facing, cannot discriminate by geography, political leanings, race, sex, creed,
-- Pursuit of wealth will not be criminalized or penalized.
-- Monopolies
-- Environmental protection
-- Transparency in government.
--
+Credential ceremonies, receipt-free ballots, the governance record, sortition, and automatic enactment are specified. They are not running. Until they exist, this repository is a draft maintained in public.

@@ -1,0 +1,15 @@
+items:
+- name: Introduction
+  href: introduction.md
+- name: Land tax
+  href: taxation.md
+- name: National crimes
+  href: crimes.md
+- name: Incarceration
+  href: incarceration.md
+- name: Public services
+  href: public_services.md
+- name: Production and waste
+  href: production.md
+- name: Cryptographic specification
+  href: cryptography.md
