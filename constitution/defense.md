@@ -22,9 +22,11 @@ Operational orders during an authorization are not laws and die with the authori
 
 ## Treaties
 
-A treaty is limited to peace, trade, or alliance. Its text is a proposal. It becomes law only by an ordinary ballot, and it sunsets within the sunset limit unless enacted again.
+A treaty is limited to peace, trade, or alliance. Its text is a proposal. It becomes law only by an ordinary ballot, and it sunsets within the sunset limit unless enacted again. An ordinary ballot is not a constitutional ballot. The easier path does not produce a higher law.
 
-A treaty does not change domestic law except by words that have themselves been enacted as national text. There is no self-executing treaty and no secret annex. If the other party wants different words, those words are a new proposal.
+This constitution prevails over a treaty. A statute prevails over a treaty. A treaty does not amend a charter. Where the words of a treaty and the words of this constitution cannot both be obeyed, the constitution is obeyed. Where the words of a treaty and the words of a statute cannot both be obeyed, the statute is obeyed. The treaty stays on the enforced branch until it sunsets, is repealed, or is renewed. A court does not delete it. A court, a council, and an officer do not use a treaty as a reason to read a right down or to read a national power in.
+
+A treaty does not change domestic law by its own force. There is no self-executing treaty and no secret annex. A crime, a tax, a spending program, a narrowing of a right, and a growth of national scope take the ballot those acts themselves require. They are not done by promising another nation. If the other party wants different words, those words are a new proposal. Letting a treaty sunset, or repealing it by an ordinary ballot, is ordinary legislation. This constitution does not forbid that choice, and a treaty that contradicts higher law is not kept on the ground that the nation has given its word.
 
 An alliance does not start hostilities. Hostilities still require the grave ballot, or the defensive authority when the territory is attacked.
 
@@ -59,4 +61,4 @@ Dissent, draft proposals, harsh speech, and voting against a war are not treason
 
 ## Intelligence
 
-The nation does not run bulk surveillance of people inside the borders. Collection aimed at foreign enemies does not become a backdoor into the communications of people here. A search of a person's communications follows the privacy article, and it waits for a public charge. A program that cannot name its targets that way is unlawful, including when it is called foreign.
+The nation does not run bulk surveillance of people inside the borders. Collection aimed at foreign enemies does not become a backdoor into the communications of people here. A search of a person here, or of that person's communications, follows the privacy article: probable cause and a warrant from an ordinary judge. There is no secret court and no standing secret docket. A program that cannot name its targets in those warrants is unlawful, including when it is called foreign.

@@ -19,6 +19,10 @@ The same draft and the same 90 days apply. Passage needs at least 80 percent of 
 
 Residents of a territory adopt a charter by the constitutional ballot, counted only among themselves. After that, each resident has one local vote, and the charter may give one vote to other citizens on a general condition such as owning land there. Adding a local tax on an act inside the territory, to fund a local service, is another constitutional ballot of the citizens who hold that vote. The tax does not reach a purchase made outside the town, a wage earned outside it, or anyone's wealth or bank balance. Ending the tax later is an ordinary ballot or even the consent calendar. Neighbors in the next territory can refuse the same tax. Neither group needs the national council to lose.
 
+## A treaty
+
+A treaty takes an ordinary ballot and then a sunset, the same family of vote as an ordinary statute and an easier vote than a constitutional change. Because the path is easier, the treaty sits under the constitution and under statutes. It does not execute itself into a domestic crime, a tax, or a narrower right. When the words clash, higher law is obeyed and the treaty text waits for sunset, repeal, or renewal. Letting it expire is ordinary legislation.
+
 ## What does not change the law
 
 A forum poll, a model-written memo, a council press release, a treaty that was never enacted, an emergency decree, and a judgment. The decree expires. The poll was never law. The judgment binds the parties to the case. The court has no key that merges or deletes a commit. The signature on the enacted commit stays the signature of the tally.

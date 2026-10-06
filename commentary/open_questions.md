@@ -13,6 +13,14 @@ The constitution leaves these undecided on purpose. Filling one of them is a con
 
 No statute authorizes a death sentence. The maximum national penalty is incarceration for life. Whether capital punishment should exist is undecided, not quietly adopted.
 
+## Land after a charter ends
+
+Dissolving a sub-jurisdiction ends that charter and its local statutes. Two endings for the land are in view.
+
+The ending this draft enacts follows the map. Parcels already inside an enclosing charter stay under that outer charter. Parcels inside no other charter become unorganized land under national law. A neighbor does not absorb them by touching the border or by voting to take them. A new charter there starts by the formation rules, including every owner's consent.
+
+The other ending is not enacted. Under it, a surrounding town would receive the dissolved land by its own ballot, or automatically, without the consent rules of a new formation. Choosing that ending is a constitutional change. A court, a council, or a neighboring charter does not adopt it by practice after a dissolution.
+
 ## Secession
 
 A person may leave. A border parcel may leave a sub-jurisdiction under the federalism article. Whether an entire sub-jurisdiction may leave the nation, and on what ballot, is undecided. Armed resistance is not a lawful substitute for that missing rule.

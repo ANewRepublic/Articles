@@ -68,9 +68,29 @@ A charter may be the charter of a religious town. It may require its own officer
 
 An adult has the right to keep and bear arms for defense of self, home, and community, and as a check on tyranny. A minor keeps and bears arms only under the direction of a parent. No statute, charter, or officer raises the age above adulthood.
 
-The right does not depend on a permit, a registry, a mental-health list, or a medical opinion. No level of government keeps a list of who owns arms. No level makes prior permission, a doctor's note, or a prediction of future danger a condition of keeping or bearing common arms. A charter cannot forbid keeping arms, cannot forbid bearing them in public, and cannot forbid citizens from training together in their use.
+No level of government keeps a list of who owns arms, or of which arms they own. There is no permit to carry. A charter cannot forbid keeping arms, cannot forbid bearing them in public, and cannot forbid citizens from training together in their use. A charter cannot add a firearms disability. A local conviction does not create one.
 
-The right is suspended only while a person is confined after a criminal conviction, and only inside a jail that meets the booth rule below. Release restores the right. An arrest, a charge, and a civil commitment do not suspend it.
+### When possession is suspended
+
+A firearms disability suspends possession of arms. It suspends no other right. An arrest, a charge that has not ended in a disqualifying conviction, and a town's opinion do not create one. Confinement after a conviction suspends possession inside that jail under the booth rule below. Release restores possession unless a disability in this section is still in force. A person under a disability does not carry arms through a town under the passage rule below.
+
+A final national conviction creates a disability when the offense is murder, reckless killing, intentional serious injury, enslavement, sexual abuse of a minor, armed taking, or treason. Those offenses are violence against a person, or levying war. No other national crime creates a disability. The disability lasts while the conviction stands. After the sentence has been fully served, the person may petition a national jury of 6 to end it. The jury ends the disability unless 5 of the 6 find that the person is at present likely to use unlawful violence against a person. Keeping arms, wanting arms, and speech about arms are not that finding.
+
+A mental-condition disability exists only after a national jury finds that, because of a mental disease, the person is at present likely to use unlawful violence against a person. The jury has 6 members. The finding needs 5 of the 6. A judge alone does not make it, and the person is not asked to waive the jury.
+
+A physician who has examined the person may petition. So may three adult citizens whose primary dwellings are in the same sub-jurisdiction as the person's. On unorganized land, three adult citizens may petition only by each stating a recent act of violence or a recent threat by that person. The petition states acts or the facts of an examination. It does not name, as a ground, that the person keeps arms, wants arms, or holds a political or religious opinion. Those facts are not evidence of the disease. A physician's opinion is evidence. It is not the judgment. A neighbor's alarm, and a campaign to treat the keeping of arms as illness, are not the judgment. A petition that states no qualifying acts and no examination is dismissed.
+
+The person has notice, counsel, and the right to be silent. The finding states an end date no later than one year. It continues only if a new petition and a new jury say so. When the finding starts, arms at the person's dwelling are seized under a warrant that names that dwelling and those arms, held by the court, and returned when the disability ends. They are not destroyed, sold, or entered on a roll of owners.
+
+### Acquiring an arm
+
+A citizen's credential can prove, by a fresh zero-knowledge proof, that the citizen is an adult under no firearms disability. The proof shows that fact and nothing else. It is unlinkable across sellers. Neither the nation nor the seller keeps a record of the proof that identifies the buyer. The disability on the credential is set by a national judgment under this section. A town does not set it, and towns do not keep a shared catalog of convictions for this purpose. A crime that is not a national crime of the kinds named above never becomes a flag on the credential.
+
+A transfer of an arm to anyone other than the giver's immediate family is lawful only when the recipient verifies that proof to the giver at the time of the transfer. The rule is the same for a merchant, a show, and a private person. A sale does not escape it by avoiding a merchant. A transfer to a person who has no credential is a transfer without the proof.
+
+A transfer to the giver's immediate family does not require the proof. The exception is the check at the transfer. It is not a pardon. A person under a disability still may not possess an arm. When the giver knows the recipient is under a disability, the family exception does not apply.
+
+The national criminal statute punishes possession during a disability, a transfer that omits a required proof, and a disability petition the petitioner knows is false.
 
 Training is voluntary. It is not enrollment in a force and it is not conscription.
 

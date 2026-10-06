@@ -12,6 +12,8 @@ The nation is limited. People govern the limits directly, or through delegates t
 
 The signed commit named by the [governance record](definitions.md) is the text. A website, a company that hosts the repository, and an official's announcement are copies. A judgment is not a fourth text. It binds the parties to the case, under the [judiciary](judiciary.md) article. The court holds no key that merges or deletes a commit.
 
+A treaty is law only for the outward bargain it states, and only as the [defense](defense.md) article ranks it. It sits below this constitution and below a statute. An ordinary ballot can enact a treaty. It cannot amend this constitution by doing so.
+
 The authoritative language is English.
 
 Commentary, forum polls, campaign statements, and explanations produced by a person or a machine are not law. Where the words of a statute and the words of this constitution cannot both be obeyed in a case, this constitution is obeyed in that case. The statute stays on the enforced branch until the voters change it.

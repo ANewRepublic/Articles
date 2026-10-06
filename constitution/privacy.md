@@ -8,21 +8,23 @@ An officer collects information about a person only when a statute or a charter 
 
 Bulk collection of communications, locations, reading habits, associations, or financial life is outside every level of government. A program that collects first and justifies later is unlawful.
 
-The third-party habit is rejected. Information a person shared with a bank, a carrier, a platform, a doctor, or an employer keeps its protection against the state. For a criminal investigation, a charge and a warrant are still required.
+The third-party habit is rejected. Information a person shared with a bank, a carrier, a platform, a doctor, or an employer keeps its protection against the state. For a criminal investigation, probable cause and a warrant are still required.
 
 ## Warrants
 
 An officer may enter a place to stop violence that is happening then. That entry is not a search for other crimes. Evidence of the violence then underway may be used for that event.
 
-Any other search or seizure of a person's body, home, devices, papers, or finances, and any compelled disclosure of them for a criminal investigation, waits until a charge against that person exists. A national or local judge then issues a warrant naming the person or place, the things sought, and that charge. General warrants are void. A local judge does not issue a warrant that commands a national officer.
+Any other search or seizure of a person's body, home, devices, papers, or finances, and any compelled disclosure of them for a criminal investigation, requires a warrant from a national or local judge. Judges are drawn as the judiciary article draws them. There is no separate court for intelligence, for security, or for secret applications, and no court that hears only the government.
 
-Evidence taken under the warrant is used only to support that charge. It is not used to discover a different offense or to bring a different charge. Evidence of a different offense, seen during the search, is not the basis of a new charge.
+The warrant states the probable cause, the person or place, the things sought, and the enacted offense. General warrants are void. A local judge does not issue a warrant that commands a national officer.
 
-A person may consent to a search of that person's own property. Consent is not a charge. Opening a land commitment for a buyer, a boundary dispute, a tax auction, or a judgment creditor follows the land section below. That opening is not a criminal search.
+The warrant is filed in that court's public record when it issues. Notice to the person may be delayed only while immediate notice would let that person destroy the things the warrant names. The delay ends when that reason ends, and the person is then notified. The warrant, the statement of probable cause, and the judge's name are public once the delay ends. No warrant and no opinion stays sealed after that. A system of secret warrants is unlawful.
+
+Evidence taken under the warrant is used for the offense the warrant names. It is not used to discover or to prove a different offense. A different offense needs evidence that did not come from this search.
+
+A person may consent to a search of that person's own property. Opening a land commitment for a buyer, a boundary dispute, a tax auction, or a judgment creditor follows the land section below. That opening is not a criminal search.
 
 A warrant may authorize seizure of a device. It does not compel a password or decryption. The right to silence covers both.
-
-Notice is given to the person when the search happens. After the charge exists, a judge may delay notice only while an immediate notice would let that person destroy the things the warrant names. The delay ends when that reason ends. The delayed notice and the warrant become part of the query log. There is no search of this kind before the charge, and so no secret search that the charge has not yet justified.
 
 ## The query log
 
@@ -42,7 +44,7 @@ A sub-jurisdiction that levies a lawful tax may require the disclosures strictly
 
 The nation does not run, fund, or accept the product of a system that identifies a person in a public place and keeps a record of where that person goes. Neither does a combination of sub-jurisdictions.
 
-A sub-jurisdiction may record a specific public building or a toll gate it owns, for the security of that place or for collecting that toll. The recording is not converted into a record of identified persons' movements. It is deleted within 30 days unless a warrant, issued after a charge for that incident, keeps that incident's recording for that charge alone.
+A sub-jurisdiction may record a specific public building or a toll gate it owns, for the security of that place or for collecting that toll. The recording is not converted into a record of identified persons' movements. It is deleted within 30 days unless a warrant, issued on probable cause for that incident's offense, keeps that incident's recording for that offense alone.
 
 No government shares a recording, or an identity derived from one, with another government in order to build such a movement record, or in a form that makes one possible. A database stitched from town cameras is a national catalog. Building it is unlawful even when every camera was installed locally. Travelers and neighbors did not join that town's experiment by passing a lens.
 

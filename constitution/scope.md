@@ -5,7 +5,7 @@ The nation keeps the peace and protects life and physical property inside its bo
 ## The nation may
 
 - Protect persons and physical property inside the borders from force, fraud, and invasion.
-- Make treaties limited to peace, trade, and alliance, under the [defense](defense.md) article.
+- Make treaties limited to peace, trade, and alliance, under the [defense](defense.md) article. A treaty ranks below this constitution and below a statute.
 - Keep courts, the citizenship credential, the land records, and the legislative machinery this constitution describes.
 - Levy the [land tax](money.md).
 - Lay a security tariff, or an import or export control, only as the [defense](defense.md) article allows, and not as a general power over trade.

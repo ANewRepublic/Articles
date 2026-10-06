@@ -12,11 +12,12 @@ The specification defines the finality depth of the governance record. After tha
 
 ## Properties it has to meet
 
-The specification fails, and a court sets the amendment aside, if it does not provide all of the following:
+The specification fails, and a court does not apply the amendment, if it does not provide all of the following:
 
 - uniqueness of enrollment without a readable catalog of persons, and destruction of the biological sample at the ceremony
 - device-bound, non-exportable credentials
 - zero-knowledge proofs of citizenship, adulthood, and uniqueness that are unlinkable across verifiers unless the citizen links them
+- a zero-knowledge proof of firearms eligibility, unlinkable across verifiers, showing that the citizen is an adult under no firearms disability and showing no other fact. Verification does not give the verifier a record that identifies the citizen
 - one voting weight per citizen, delegated or direct, with a direct vote overriding delegation on that proposal
 - receipt-free ballots: the voter can detect that the last ballot was omitted, and cannot hand a third party a proof of how they voted
 - the same property for a delegator's view of how their weight was cast, shown to the delegator for the delegate notice before a delegate's vote can bind

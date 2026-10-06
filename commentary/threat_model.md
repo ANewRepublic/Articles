@@ -49,6 +49,18 @@ A town cannot vote a holdout's parcel in, and cannot draw a ring around it. The 
 
 A court that can delete a voted text, or that can grow a second constitution out of opinions, holds a power the tally was supposed to keep. Sortition makes that worse if one drawn judge can do it. The mitigation is mechanical. The court has no merge key. The enacted commit stays until a later tally changes it. One judge decides the parties in the room. A citation to an earlier case exists only when a unanimous national panel tied the reading to one statute, and only until that statute sunsets, is repealed, or is renewed. Renewal of the same words still ends it, unless the voters write the reading into the new text. Readings of the constitution do not bind the next court. A local judge does not order the national council or a national officer to stop. Motive review of a tariff or a frontier list is not a judicial power. The political checks are the sunset, the renewal, and the grave ballot.
 
+## Treaties that outrank the frame
+
+A bargain that is easier to pass than an amendment, and is then treated as harder to break than the amendment, lets a foreign promise rewrite the frame. Treaties take an ordinary ballot, they sunset, and they lose to both the constitution and a statute. An officer does not get to say the nation's word has tied its hands past the text.
+
+## Secret courts
+
+Probable cause of a named offense, stated in a warrant from an ordinary judge, is the path into a person's privacy. A standing secret docket, hearing only the government, is the path that becomes a rubber stamp. Delayed notice ends when the destruction risk ends, and the warrant is then public. Intelligence collection that touches a person here uses that same door.
+
+## Disarmament by rumor
+
+Keeping arms is not evidence of illness, and a neighbor's campaign is not a judgment. A mental-condition disability takes a national jury, a present likelihood of unlawful violence, and an end date within a year. A petition that invents acts, or that treats gun ownership as the illness, is itself a national crime. Criminal disabilities are a closed list of national violent offenses. The seller learns only a zero-knowledge proof of eligibility, so the check does not become a registry of buyers. Town convictions never set the flag. Violent conduct that should disarm has to be on the national list, not left for each town to define.
+
 ## The high bar itself
 
 Constitutional error is hard to repair. That includes errors in this draft. The bar is the protection against a weekend majority. It is also a reason to keep the constitution short and to put numbers that should move into statutes.

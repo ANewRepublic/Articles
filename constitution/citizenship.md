@@ -57,6 +57,7 @@ Each citizen holds a cryptographic credential. It can prove, at the citizen's ch
 - citizenship
 - adulthood
 - eligibility to vote or to delegate
+- eligibility to receive an arm, as the rights article defines that fact
 
 A third party may accept a zero-knowledge proof from the credential. A site may use one to gate adult material, or to allow one account for one adult. Each proof is unlinkable to other verifiers unless the citizen chooses to be linkable. The nation does not receive a log of those proofs.
 

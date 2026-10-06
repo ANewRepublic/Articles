@@ -32,6 +32,8 @@ A prosecution for a local rule the accused could not have learned under this sec
 
 A sub-jurisdiction does not punish a person for an act performed outside its territory. It does not matter whether that act was lawful where it was done. A local penalty is not written so that it turns on the law of some other place. The nation may still punish a national crime. The place where the act was performed may apply its own published law.
 
+A person or a company outside a sub-jurisdiction is not subject to its penalties because someone inside received a communication or a virtual product from them. A physical good shipped into the territory arrives inside, and the sub-jurisdiction may regulate that arrival. A file, a message, a page, or another virtual product does not arrive in that sense. The recipient's residence, the recipient's location, and the recipient's hiding of that location do not move the sender inside. The sub-jurisdiction does not require the sender to detect the recipient's territory. A sender who is physically present and acting inside the territory is inside for that physical act.
+
 ## National civil wrongs
 
 A person who uses force, commits fraud, or physically damages another person's body or property owes restitution. The victim may sue in a national court even when the act is not a national crime and even when a charter is silent or hostile. Pollution and other waste that causes that damage are within this sentence. A charter cannot legalize it.

@@ -26,6 +26,16 @@ The jury sets the term at or under the maximum, under the judiciary article. Res
 
 Damage to property without that violence is not a national crime. It is a civil wrong in national court, and it may be a local crime within the local cap.
 
+## Arms
+
+The disabilities and the transfer rule are defined in the [rights](../constitution/rights.md) article. This list is how they are punished. A local conviction is not a firearms disability.
+
+**Possession under a firearms disability.** Possessing an arm while a firearms disability is in force. Maximum: 5 years.
+
+**Transfer without an eligibility proof.** Transferring an arm without the eligibility proof the rights article requires. A transfer the rights article exempts is not this offense. Maximum: 3 years.
+
+**False disability petition.** In a petition for a mental-condition firearms disability, knowingly stating an act that did not happen, or naming as a ground that the person keeps arms, wants arms, or holds a political or religious opinion. Maximum: 5 years.
+
 ## Against the constitution's machinery
 
 **Treason.** As defined in the defense article. Maximum: life.

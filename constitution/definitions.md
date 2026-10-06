@@ -104,6 +104,10 @@ Ballots of a jurisdiction use that jurisdiction's eligible weight. A citizen may
 
 **Agent.** A tool, including an autonomous system, that acts for a person or a legal entity. An agent is not a person, a citizen, a delegate, or a principal.
 
+**Immediate family.** A person's spouse, parent, child, or sibling, including by adoption.
+
+**Probable cause.** Facts that would lead an ordinary adult to believe both that a particular enacted offense has been committed and that the things sought are evidence of that offense. A hunch, a category of person, a political or religious opinion, and the keeping or wanting of arms are not probable cause.
+
 ## Force
 
 **Council.** The national executive council described in the [executive](executive.md) article.

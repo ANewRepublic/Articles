@@ -24,7 +24,9 @@ The national constitution binds this territory. In particular, and without narro
 - officers do not make law, and local courts do not order national officers
 - local statutes and local taxes sunset within the national sunset limit unless renewed by an ordinary ballot. A local judgment binds the parties. It is not precedent
 - each resident citizen has one vote. [Other citizens who own land here also have one vote. / No other person has a vote.] No person has more than one. A non-citizen has none
-- no tax reaches wealth, a bank balance, a financial holding, or an act performed outside this territory
+- no tax reaches wealth, a bank balance, a financial holding, an act performed outside this territory, or a virtual product sent from outside it. A physical good that arrives here may be taxed or turned away
+- this charter creates no firearms disability and keeps no list of arms or owners
+- a person or company outside this territory is not punished for sending a communication or a virtual product to a person here, and is not required to detect that the person is here
 - a jail or courtroom forbids arms inside only while armed guards staff a gun-detection booth at each public entrance
 
 ## 3. Powers

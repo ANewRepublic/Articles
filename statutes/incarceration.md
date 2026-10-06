@@ -16,7 +16,7 @@ Rehabilitation may be offered to a person who wants it. A person is not held pas
 
 Confinement provides safety, food, sanitation, medical care sufficient to prevent death or serious permanent injury, and a way to petition a court. It does not provide a life of comfort, and it does not inflict cruelty, humiliation, or forced idleness as a punishment.
 
-A confined citizen is given the private voting terminal and a way to communicate with counsel and with a court. Those channels are not monitored except under a warrant the privacy article would allow for a person outside, after a charge.
+A confined citizen is given the private voting terminal and a way to communicate with counsel and with a court. Those channels are not monitored except under a warrant the privacy article would allow for a person outside.
 
 Debt and inability to pay a fine or restitution are not reasons to confine, and not reasons to extend confinement.
 

@@ -36,6 +36,7 @@ A charter and its officers do not:
 - treat a government school as preferred to a private school or to home education
 - deny one vote to a resident citizen, give any person more than one local vote, or give a local vote to a non-citizen
 - punish an act performed outside the territory, or write a penalty or a tax that turns on what another place permits or forbids
+- punish a person or a company outside the territory for sending a communication or a virtual product to someone inside it, or require that sender to discover which territory the recipient is in
 - levy a wealth tax, or tax a bank balance or a financial holding
 - write secret law, or make law by executive order
 - amend this constitution or a national statute
@@ -43,7 +44,7 @@ A charter and its officers do not:
 - compel a medical or surgical procedure
 - expect the nation to pay the sub-jurisdiction's bills
 
-A local tax is not a national tax. A charter may levy taxes the nation may not levy, and it may not levy a wealth tax at all. The money article states that limit. A local tax is prospective. It is enacted only by the ballot named below. It reaches an act performed inside the territory, or property that sits inside the territory. Income from labor or a sale inside the territory may be taxed when the charter says so. A wage earned outside, a purchase made outside, and a balance held at a bank are not that town's base. Land inside the territory may be taxed because the land is inside. After a person has in fact changed primary dwelling to a place outside the sub-jurisdiction, later acts outside are not that sub-jurisdiction's to tax. Taxes already accrued on inside acts, and taxes already accrued on land that remains, stay owing. The remedies are a civil suit and a lien on land that remains inside the territory. The remedy is not jail, and it is not a stop at the border.
+A local tax is not a national tax. A charter may levy taxes the nation may not levy, and it may not levy a wealth tax at all. The money article states that limit. A local tax is prospective. It is enacted only by the ballot named below. It reaches an act performed inside the territory, or property that sits inside the territory. Income from labor or a sale inside the territory may be taxed when the charter says so. A wage earned outside, a purchase made outside, a virtual product sent from outside, and a balance held at a bank are not that town's base. A physical good that arrives inside the territory may be taxed because the arrival is inside. Land inside the territory may be taxed because the land is inside. After a person has in fact changed primary dwelling to a place outside the sub-jurisdiction, later acts outside are not that sub-jurisdiction's to tax. Taxes already accrued on inside acts, and taxes already accrued on land that remains, stay owing. The remedies are a civil suit and a lien on land that remains inside the territory. The remedy is not jail, and it is not a stop at the border.
 
 ## Forming, nesting, and leaving a territory
 
@@ -59,7 +60,11 @@ An inner sub-jurisdiction lies entirely inside an outer one. Sibling territories
 
 A border parcel leaves a sub-jurisdiction when every owner asks and the territory that remains would stay connected, without cutting the enclosing jurisdiction's recorded passage. If resident citizens live on that parcel, they also pass an ordinary ballot to leave. Personal departure does not require a vote. The person leaves when the primary dwelling actually changes.
 
-Dissolving a whole sub-jurisdiction is a constitutional ballot of the citizens who hold its vote. A national court applies this constitution in the case before it when a charter's words cannot be obeyed together with a national guarantee. It does not remove the charter from the repository. The nation dissolves a sub-jurisdiction only after a judgment that it has taken up arms against the nation, followed by a national grave ballot.
+Dissolving a whole sub-jurisdiction is a constitutional ballot of the citizens who hold its vote. When that ballot passes, the charter and its local statutes end. The dissolution does not edit any other charter's map. Parcels that already lie inside an enclosing charter stay under that outer charter. Parcels that lie in no other charter become unorganized land, and national law is the whole government there. A neighboring town does not receive them because the borders touch, because it votes to absorb them, or because the charter ended. A later charter on that land starts under the formation rules, including every owner's consent.
+
+The other ending, in which a surrounding town receives the dissolved land without those consent rules, is not adopted. Both endings are named in the [open questions](../commentary/open_questions.md). Silence after a dissolution is not a way for a neighbor or a court to choose the one this section does not enact.
+
+A national court applies this constitution in the case before it when a charter's words cannot be obeyed together with a national guarantee. It does not remove the charter from the repository. The nation dissolves a sub-jurisdiction only after a judgment that it has taken up arms against the nation, followed by a national grave ballot.
 
 ## Local law and local officers
 
