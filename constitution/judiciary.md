@@ -28,7 +28,7 @@ Counsel for an accused facing incarceration is drawn by rotation from the advoca
 
 ## Juries
 
-A charge that can incarcerate is tried to a jury of 12 citizens of the jurisdiction whose law is being applied. Conviction requires all 12. The jury also sets the term, which cannot exceed the statutory maximum. A judge may lower a term that is grossly disproportionate and states the reasons. A judge does not raise a term.
+A charge that can incarcerate is tried to a jury of 12 citizens of the jurisdiction whose law is being applied, unless the accused waives the jury by a plea of guilt accepted under the criminal article. Conviction at trial requires all 12. The jury sets the term inside the statutory range. On an accepted plea, the term is the minimum. A judge does not move a term below the minimum or above the maximum.
 
 A hung jury may be retried once. After that the charge is dismissed.
 

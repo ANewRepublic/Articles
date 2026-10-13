@@ -41,7 +41,7 @@ A charter and its officers do not:
 - write secret law, or make law by executive order
 - amend this constitution or a national statute
 - keep an identity catalog, or run bulk surveillance, beyond the [privacy](privacy.md) article
-- compel a medical or surgical procedure
+- compel a medical or surgical procedure, including as a punishment
 - expect the nation to pay the sub-jurisdiction's bills
 
 A local tax is not a national tax. A charter may levy taxes the nation may not levy, and it may not levy a wealth tax at all. The money article states that limit. A local tax is prospective. It is enacted only by the ballot named below. It reaches an act performed inside the territory, or property that sits inside the territory. Income from labor or a sale inside the territory may be taxed when the charter says so. A wage earned outside, a purchase made outside, a virtual product sent from outside, and a balance held at a bank are not that town's base. A physical good that arrives inside the territory may be taxed because the arrival is inside. Land inside the territory may be taxed because the land is inside. After a person has in fact changed primary dwelling to a place outside the sub-jurisdiction, later acts outside are not that sub-jurisdiction's to tax. Taxes already accrued on inside acts, and taxes already accrued on land that remains, stay owing. The remedies are a civil suit and a lien on land that remains inside the territory. The remedy is not jail, and it is not a stop at the border.

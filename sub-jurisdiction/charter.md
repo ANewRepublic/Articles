@@ -47,7 +47,7 @@ Programs create no right to continue.
 
 [Name local offenses and civil penalties, if any.]
 
-No local term of incarceration exceeds the national local cap. A jury is unanimous and has 12 members whenever incarceration is possible. Protected speech, worship, status, and the act of leaving are not offenses. An act performed outside this territory is not an offense here. Public exposure, and public display of an indecent image, may be named below. A visitor is held to a local offense other than force, theft, fraud, or trespass only when that rule is posted, in words an ordinary adult can read on the spot, where the act happens or at each public road entrance.
+No local term of incarceration exceeds the national local cap. A local offense that can incarcerate states a minimum and a maximum. A plea does not drop or replace a charge, and an accepted plea is sentenced at the minimum. A witness is paid lost wages only. A jury is unanimous and has 12 members whenever incarceration is possible. Protected speech, worship, status, and the act of leaving are not offenses. An act performed outside this territory is not an offense here. Public exposure, and public display of an indecent image, may be named below. A visitor is held to a local offense other than force, theft, fraud, or trespass only when that rule is posted, in words an ordinary adult can read on the spot, where the act happens or at each public road entrance.
 
 ## 6. Officers
 

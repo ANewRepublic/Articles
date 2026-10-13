@@ -61,6 +61,10 @@ Probable cause of a named offense, stated in a warrant from an ordinary judge, i
 
 Keeping arms is not evidence of illness, and a neighbor's campaign is not a judgment. A mental-condition disability takes a national jury, a present likelihood of unlawful violence, and an end date within a year. A petition that invents acts, or that treats gun ownership as the illness, is itself a national crime. Criminal disabilities are a closed list of national violent offenses. The seller learns only a zero-knowledge proof of eligibility, so the check does not become a registry of buyers. Town convictions never set the flag. Violent conduct that should disarm has to be on the national list, not left for each town to define.
 
+## Bargains for guilt and testimony
+
+A weak case is not repaired by dropping a count, and a witness is not bought. The prosecutor publishes evidence that already meets the conviction standard, or declines in public. An accepted plea admits the charged offense and is sentenced at the statutory minimum. It changes no charge. A witness is paid lost wages for days of attendance, and nothing else, whether the prosecution or the defense calls them. Hiding a witness's location does not erase a conviction or the credential that carries it.
+
 ## The high bar itself
 
 Constitutional error is hard to repair. That includes errors in this draft. The bar is the protection against a weekend majority. It is also a reason to keep the constitution short and to put numbers that should move into statutes.

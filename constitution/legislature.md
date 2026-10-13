@@ -70,17 +70,17 @@ If objections reach the threshold, the proposal does not merge. It goes to the n
 
 Decision days carry the ballots that need an affirmative vote:
 
-- an ordinary ballot for an ordinary statute that is not on the consent calendar, for a renewal, for a treaty, for a lower criminal maximum, and for a local repeal that drew an objection
-- a grave ballot to commence hostilities, to extend a civil emergency past the council's own authority, to dissolve a sub-jurisdiction after armed resistance, to repeal an enduring statute, to add or remove a national offense, to raise a maximum sentence, to set the land-tax rate at zero, or to lay or renew a security tariff or an import or export control
+- an ordinary ballot for an ordinary statute that is not on the consent calendar, for a renewal, for a treaty, for a lower criminal maximum or minimum, and for a local repeal that drew an objection
+- a grave ballot to commence hostilities, to extend a civil emergency past the council's own authority, to dissolve a sub-jurisdiction after armed resistance, to repeal an enduring statute, to add or remove a national offense, to raise a maximum or a minimum sentence, to set the land-tax rate at zero, or to lay or renew a security tariff or an import or export control
 - a constitutional ballot to change this constitution, to add a local power or a local tax, or to remove a judge or the prosecutor for inability
 
-On an enduring file, an identical renewal, a lower criminal maximum, and a land-tax rate that stays above zero use an ordinary ballot. Every other change to an enduring file uses a grave ballot. A proposal that mixes a grave change with any other change uses a grave ballot.
+On an enduring file, an identical renewal, a lower criminal maximum or minimum, and a land-tax rate that stays above zero use an ordinary ballot. Every other change to an enduring file uses a grave ballot. A proposal that mixes a grave change with any other change uses a grave ballot.
 
 A constitutional ballot that passes on a decision day is voted again on the next decision day. The text stays frozen between them. Failure on either day rejects it. One review period before the first of those days is enough.
 
 The vote is yes or no on the frozen hash. There is no third option and no amendment on the ballot.
 
-Repeal of ordinary text may use the consent calendar. Repeal of an enduring statute, and adding or removing a national offense, takes a grave ballot, so the criminal list is not undone by silence or by a thin ordinary vote. Repeal of a constitutional rule is a constitutional change. A lower maximum sentence is an ordinary ballot. Repeal is otherwise held to no higher bar than enactment.
+Repeal of ordinary text may use the consent calendar. Repeal of an enduring statute, and adding or removing a national offense, takes a grave ballot, so the criminal list is not undone by silence or by a thin ordinary vote. Repeal of a constitutional rule is a constitutional change. A lower maximum or a lower minimum is an ordinary ballot. Repeal is otherwise held to no higher bar than enactment.
 
 A failed proposal leaves the law as it was.
 

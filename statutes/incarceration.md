@@ -14,7 +14,7 @@ Rehabilitation may be offered to a person who wants it. A person is not held pas
 
 ## Conditions
 
-Confinement provides safety, food, sanitation, medical care sufficient to prevent death or serious permanent injury, and a way to petition a court. It does not provide a life of comfort, and it does not inflict cruelty, humiliation, or forced idleness as a punishment.
+Confinement provides safety, food, sanitation, medical care sufficient to prevent death or serious permanent injury, and a way to petition a court. It does not provide a life of comfort, and it does not inflict cruelty, humiliation, or forced idleness as a punishment. When the national criminal statute orders castration, the jail provides the ordinary care of that surgery and orders no other surgery.
 
 A confined citizen is given the private voting terminal and a way to communicate with counsel and with a court. Those channels are not monitored except under a warrant the privacy article would allow for a person outside.
 

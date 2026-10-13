@@ -6,9 +6,31 @@ National crimes are a closed list in the [criminal statute](../statutes/crimes.m
 
 ## Purposes
 
-Punishment exists to separate people who are dangerous, to make restitution to a victim, and to deter. Pain beyond those purposes is not a purpose. Rehabilitation may be offered. It is not a pretext for a longer confinement.
+Punishment exists to separate people who are dangerous, to make restitution to a victim, and to deter. Pain beyond those purposes is not a purpose. The surgical punishment for rape stated in the national criminal statute is part of separating a person convicted of that offense. It does not license any other bodily punishment. Rehabilitation may be offered. It is not a pretext for a longer confinement.
 
-Sentences are proportionate to the harm. The statutory maximum is a ceiling. It is not a suggestion that every case deserves the ceiling.
+Sentences are proportionate to the harm. Every offense that can incarcerate states a minimum and a maximum. The maximum is a ceiling. The minimum is the floor. Neither is a suggestion that every case deserves an end of the range.
+
+## Proof
+
+A conviction requires admissible evidence on which an ordinary adult would settle, beyond a reasonable doubt, that the accused committed the charged offense. Suspicion is not that evidence. A plea is not that evidence. The same standard applies in a national court and in a local court.
+
+## Pleas
+
+The accused may plead guilty only to an offense already charged. The plea does not dismiss, reduce, or replace a charge. The prosecutor does not offer, and a court does not accept, a plea that drops a count, substitutes another offense, or sets a term other than the minimum stated for the offense charged.
+
+Before a plea is accepted, the prosecutor files the evidence for the charge in the public record. A minor victim's identity is protected as the rights article allows. The judge accepts the plea only when that evidence already meets the proof section. If it does not, the plea is rejected. The case is then tried, or the prosecutor declines the charge.
+
+A declination is a public statement that the evidence does not meet the proof section. It is not exchanged for a plea, for testimony, or for cooperation. Counts of declinations stay public as the judiciary article requires.
+
+On an accepted plea, the term is the minimum. On a trial, the jury sets the term inside the range. A judge does not move either term below the minimum or above the maximum.
+
+## Witnesses
+
+No party, officer, or private person pays a witness for testimony. Payment includes a fee, a bonus, a gift, immunity, a dismissed or reduced charge, and a lower sentence. It includes a witness called for specialized knowledge. The ban binds the prosecution and the defense.
+
+A witness may be paid the wages that witness loses for each day of required attendance, and nothing more. A witness who loses no wages is paid nothing. The party who calls the witness pays. Prosecution witnesses, and witnesses called by counsel appointed at public expense, are paid from land-tax receipts. Any other defense witness is paid by the defense. A claim for wages the witness did not lose is process corruption when the treasury pays it.
+
+The nation may conceal a witness's location and may help the witness live elsewhere. That protection does not dismiss a charge, erase a conviction, or issue a credential, a name, or an identity that omits criminal history the person already has. The history stays on the credential and follows the person. A firearms disability stays.
 
 ## Clear and enforceable rules
 
@@ -44,9 +66,9 @@ The owner of the damaged property is the plaintiff. The suit is not a national p
 
 A sub-jurisdiction may punish conduct by incarceration only when all of the following are true:
 
-- a local statute in force at the time names the act
+- a local statute in force at the time names the act and states a minimum and a maximum
 - the proceeding meets the rights article and the jury rules
-- the term does not exceed the local cap, and does not exceed the national maximum when the same act is also a national crime
+- the term stays inside that range, does not exceed the local cap, and does not exceed the national maximum when the same act is also a national crime
 - the act is not mere status, speech protected by the rights article, worship, or the fact of leaving the territory
 
 A local crime that does not incarcerate may still be sued on for a civil penalty the charter states, collected without jail and without blocking exit.

@@ -17,7 +17,7 @@ Rights bind the nation and every sub-jurisdiction. They bind officers in and out
 
 A person has the right to life and to bodily integrity.
 
-No person is compelled to undergo a medical or surgical procedure. A court may authorize care for a person who cannot consent, and only to prevent an imminent threat of death or serious permanent injury. An adult who can consent may refuse care, including when refusal risks death.
+No person is compelled to undergo a medical or surgical procedure. A court may authorize care for a person who cannot consent, and only to prevent an imminent threat of death or serious permanent injury. An adult who can consent may refuse care, including when refusal risks death. The surgical punishment stated in the national criminal statute for rape is the one exception. No charter adds a surgical punishment. That punishment is not a cruel punishment under the due process section.
 
 A person may use proportionate force to stop an imminent unlawful attack on that person, on another person, or on property the person has a right to defend. There is no duty to retreat from a place the person has a right to be. The right is a defense in any court of the nation. It does not license pursuit or punishment after the threat has ended.
 
@@ -74,7 +74,7 @@ No level of government keeps a list of who owns arms, or of which arms they own.
 
 A firearms disability suspends possession of arms. It suspends no other right. An arrest, a charge that has not ended in a disqualifying conviction, and a town's opinion do not create one. Confinement after a conviction suspends possession inside that jail under the booth rule below. Release restores possession unless a disability in this section is still in force. A person under a disability does not carry arms through a town under the passage rule below.
 
-A final national conviction creates a disability when the offense is murder, reckless killing, intentional serious injury, enslavement, sexual abuse of a minor, armed taking, or treason. Those offenses are violence against a person, or levying war. No other national crime creates a disability. The disability lasts while the conviction stands. After the sentence has been fully served, the person may petition a national jury of 6 to end it. The jury ends the disability unless 5 of the 6 find that the person is at present likely to use unlawful violence against a person. Keeping arms, wanting arms, and speech about arms are not that finding.
+A final national conviction creates a disability when the offense is murder, reckless killing, intentional serious injury, enslavement, rape, an incapacitating dose, sexual abuse of a minor, armed taking, or treason. Those offenses are violence against a person, or levying war. No other national crime creates a disability. The disability lasts while the conviction stands. After the sentence has been fully served, the person may petition a national jury of 6 to end it. The jury ends the disability unless 5 of the 6 find that the person is at present likely to use unlawful violence against a person. Keeping arms, wanting arms, and speech about arms are not that finding.
 
 A mental-condition disability exists only after a national jury finds that, because of a mental disease, the person is at present likely to use unlawful violence against a person. The jury has 6 members. The finding needs 5 of the 6. A judge alone does not make it, and the person is not asked to waive the jury.
 
@@ -141,7 +141,7 @@ Criminal process includes:
 - the right to be silent, to refuse decryption, and to refuse to produce the records that would convict the accused
 - proof by evidence the prosecution obtains without compelling that production
 - the right to counsel, provided at public expense when incarceration is possible and the accused wants counsel
-- a jury, as the [judiciary](judiciary.md) article requires, for any charge that can incarcerate
+- a jury, as the [judiciary](judiciary.md) article requires, for any charge that can incarcerate, unless the accused waives it by a plea of guilt accepted under the criminal article
 - confrontation of witnesses, and compulsory process for witnesses in the person's favor
 - a public trial, closed only to the extent needed to protect a minor victim's identity, with the judgment still public
 - a speedy trial: an accused held in custody is released from custody if trial has not begun within 180 days, unless that accused extends the time
@@ -173,7 +173,7 @@ Citizens may enter the nation. That right is stated again in the defense article
 
 ## Equal application
 
-In rights, punishments, and eligibility for a public trust, the law does not classify persons by race, sex, creed, or political affiliation. The officer rule in the religion section is the exception, and it reaches only a charter's own officers.
+In rights, punishments, and eligibility for a public trust, the law does not classify persons by race, sex, creed, or political affiliation. The officer rule in the religion section is the exception, and it reaches only a charter's own officers. The rape offense applies to every person. Its surgical punishment applies to a convict who has testes, because that is the body the procedure acts on.
 
 Geography may change a land-tax rate where the cost of protection differs, under the money article, and nowhere else as a burden on persons.
 
